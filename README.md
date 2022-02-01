@@ -2,9 +2,9 @@
 
 # [Pitney Bowes Data Challenge 2021: Project Overview](https://github.com/mendozadylan0/comp-pbchallenge21.git)
 
-**Context:**\
 ![21-mktc-05288-pitneybowe-logo-1100x400-1](https://user-images.githubusercontent.com/82073881/151914933-a97cf1c9-2bc8-4c7f-9c10-28d6434e9d11.jpg)
 
+**Context:**\
 Pitney Bowes uses predictive maintenance to reduce down-times of mailing meters. Pitney Bowes' mailing meters are an integral part of their clients' business operations. As a result, they must be able to proactively identify potential complications early on to avoid service disruptions for their clients. Predictive maintenance allows the company to have the required replacement parts where they are needed. Additionally, predictive maintenance also allows the aforementioned company to proactively schedule appointments with customers if needed.
 
 **Objective:**\
