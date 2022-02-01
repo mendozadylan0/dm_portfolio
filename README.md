@@ -30,3 +30,6 @@ Given the data sets that were selected for this project, try to answer the follo
 
 **Tools Used:**\
 Python, Pandas, Google BigQuery, Socrata OpenData API, Tableau
+
+![311 Traffic Light Complaints and Car Crashes in NYC 2019-2021](https://user-images.githubusercontent.com/82073881/151912103-e0b331ad-9547-4dd5-9044-082b7ebdbaf1.png)
+
